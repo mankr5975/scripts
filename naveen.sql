@@ -1,1 +1,1 @@
-select * from Naveen;
+select * from Naveen limit 10;
